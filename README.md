@@ -83,4 +83,4 @@ The following training is performed on a node with a single A40.
 
 ### DeepSpeed
 
-![deepspeed](deepspeed.png)
+![deepspeed](assets/deepspeed.png)
