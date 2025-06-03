@@ -73,3 +73,14 @@ To run evaluation:
 python test.py
 ```
 
+## Training screenshots
+
+The following training is performed on a node with a single A40.
+
+### Python
+
+![python](assets/python.png)
+
+### DeepSpeed
+
+![deepspeed](deepspeed.png)
